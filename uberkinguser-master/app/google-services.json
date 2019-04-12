@@ -1,0 +1,247 @@
+{
+  "project_info": {
+    "project_number": "1028005313767",
+    "firebase_url": "https://dashboard-project-78349.firebaseio.com",
+    "project_id": "dashboard-project-78349",
+    "storage_bucket": "dashboard-project-78349.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028005313767:android:b2c4885265e66a51",
+        "android_client_info": {
+          "package_name": "com.aletta.taxi.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028005313767-712kskhmqg66jkqhm6fhedfgh027o84l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aletta.taxi.driver",
+            "certificate_hash": "b9d64c2fa6b938cf3697bdba6432868e470c479a"
+          }
+        },
+        {
+          "client_id": "1028005313767-lqtkfqq74g2bnis5nd6cu0gncsvs3bg2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aletta.taxi.driver",
+            "certificate_hash": "cccf072ee7dfb9249893023f48d60d6626b32fcc"
+          }
+        },
+        {
+          "client_id": "1028005313767-1ddhj95p2as02vjfjtfhmjq2th6o7h62.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aletta.taxi.driver",
+            "certificate_hash": "a3592805043fea7e6aaea7b4df817b0540798803"
+          }
+        },
+        {
+          "client_id": "1028005313767-9atqj47l0smopfg5c0cui8dr5rgtms8r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDH6blVu7Zqv0C25vTn1siuE2hc1i_3uM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028005313767-9atqj47l0smopfg5c0cui8dr5rgtms8r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1028005313767-728arkli220v3om48gh73e52s1o08sf2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.steups.rider"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028005313767:android:c1df04662054e181",
+        "android_client_info": {
+          "package_name": "com.aletta.taxi.rider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028005313767-k4b811dlr2i1g2hbdv9ver8msioihuho.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aletta.taxi.rider",
+            "certificate_hash": "b9d64c2fa6b938cf3697bdba6432868e470c479a"
+          }
+        },
+        {
+          "client_id": "1028005313767-5mtpii8sbh256shlb0ddatncqbp7v4ft.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aletta.taxi.rider",
+            "certificate_hash": "cccf072ee7dfb9249893023f48d60d6626b32fcc"
+          }
+        },
+        {
+          "client_id": "1028005313767-c9tq0biscaqlg5eoo6b8e4lvbp7p3sos.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aletta.taxi.rider",
+            "certificate_hash": "a3592805043fea7e6aaea7b4df817b0540798803"
+          }
+        },
+        {
+          "client_id": "1028005313767-9atqj47l0smopfg5c0cui8dr5rgtms8r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDH6blVu7Zqv0C25vTn1siuE2hc1i_3uM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028005313767-9atqj47l0smopfg5c0cui8dr5rgtms8r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1028005313767-728arkli220v3om48gh73e52s1o08sf2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.steups.rider"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028005313767:android:9df2784f754b9129",
+        "android_client_info": {
+          "package_name": "com.rideshare.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028005313767-pbegsodth03h0s6eurgp4no0gcr7ch3r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rideshare.driver",
+            "certificate_hash": "e6af42b1fe768dc2c32340c9eff1bb2114dc9cc3"
+          }
+        },
+        {
+          "client_id": "1028005313767-9atqj47l0smopfg5c0cui8dr5rgtms8r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDH6blVu7Zqv0C25vTn1siuE2hc1i_3uM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028005313767-9atqj47l0smopfg5c0cui8dr5rgtms8r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1028005313767-728arkli220v3om48gh73e52s1o08sf2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.steups.rider"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028005313767:android:4b23fb383100eef1",
+        "android_client_info": {
+          "package_name": "com.shareride.rider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028005313767-1tnki3ck783hck8u4ivp5clmfc4s8gks.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shareride.rider",
+            "certificate_hash": "a3592805043fea7e6aaea7b4df817b0540798803"
+          }
+        },
+        {
+          "client_id": "1028005313767-9atqj47l0smopfg5c0cui8dr5rgtms8r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDH6blVu7Zqv0C25vTn1siuE2hc1i_3uM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028005313767-9atqj47l0smopfg5c0cui8dr5rgtms8r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1028005313767-728arkli220v3om48gh73e52s1o08sf2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.steups.rider"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
